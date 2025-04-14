@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OrtakBlog/1.0.0": {
+        "runtime": {
+          "OrtakBlog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrtakBlog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

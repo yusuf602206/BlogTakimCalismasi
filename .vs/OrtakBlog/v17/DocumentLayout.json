@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\wwwroot\\js\\jquery-3.4.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\wwwroot\\js\\jquery-3.4.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\wwwroot\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\wwwroot\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\wwwroot\\css\\style.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\wwwroot\\css\\style.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\views\\home\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\views\\home\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|c:\\users\\muhcc\\source\\repos\\ortakblog\\ortakblog\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6847788B-EE2E-4CA5-8184-584BE488A907}|OrtakBlog\\OrtakBlog.csproj|solutionrelative:ortakblog\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\style.scss",
+              "RelativeDocumentMoniker": "OrtakBlog\\wwwroot\\css\\style.scss",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\style.scss",
+              "RelativeToolTip": "OrtakBlog\\wwwroot\\css\\style.scss",
+              "ViewState": "AgIAACcCAAAAAAAAAAAowDUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-04-14T18:43:18.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css.map",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\style.css.map",
+              "RelativeDocumentMoniker": "OrtakBlog\\wwwroot\\css\\style.css.map",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\style.css.map",
+              "RelativeToolTip": "OrtakBlog\\wwwroot\\css\\style.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T18:42:47.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "OrtakBlog\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "OrtakBlog\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAEECAAAAAAAAAAAowE0CAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-14T18:42:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\responsive.css",
+              "RelativeDocumentMoniker": "OrtakBlog\\wwwroot\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\responsive.css",
+              "RelativeToolTip": "OrtakBlog\\wwwroot\\css\\responsive.css",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-14T18:41:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\About.cshtml.cs",
+              "RelativeDocumentMoniker": "OrtakBlog\\Views\\Home\\About.cshtml.cs",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\About.cshtml.cs",
+              "RelativeToolTip": "OrtakBlog\\Views\\Home\\About.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:41:14.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "OrtakBlog\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "OrtakBlog\\wwwroot\\css\\bootstrap.css",
+              "ViewState": "AgIAACsqAAAAAAAAAAAowDMqAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-14T18:40:10.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "OrtakBlog\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "OrtakBlog\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwJEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T18:37:46.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "OrtakBlog\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "OrtakBlog\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwKcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T18:37:15.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrtakBlog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OrtakBlog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T18:06:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jquery-3.4.1.min.js",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "RelativeDocumentMoniker": "OrtakBlog\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "RelativeToolTip": "OrtakBlog\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACRUwEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-14T18:45:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.cshtml",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\Service.cshtml",
+              "RelativeDocumentMoniker": "OrtakBlog\\Views\\Home\\Service.cshtml",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\Views\\Home\\Service.cshtml",
+              "RelativeToolTip": "OrtakBlog\\Views\\Home\\Service.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwF0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T18:36:20.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "OrtakBlog\\wwwroot\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\muhcc\\source\\repos\\OrtakBlog\\OrtakBlog\\wwwroot\\js\\bootstrap.js",
+              "RelativeToolTip": "OrtakBlog\\wwwroot\\js\\bootstrap.js",
+              "ViewState": "AgIAADMRAAAAAAAAAAAQwD8RAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-14T18:44:07.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
